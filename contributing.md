@@ -25,8 +25,9 @@ BEEmod cannot modify the game code, and is not a Hammer replacement. Keep these 
 - No, we won't develop your custom style for you. Styles require a lot of work and maintenance.
 - Focus on puzzle potential: In general, items should be focused on providing new opportunities for puzzles, not solely for decoration purposes.
 - Versatility is key: For the most part, good new items maximise their flexibility in different situations, especially in improving the puzzle experience. We're not adding some item that only works for your specific map.
+- While not a requirement, don't waste your time trying to come up with overcompilcated "technical names" for custom test elements. Nobody actually uses these.
 
-However, keep in mind that BEEmod's content is not hardcoded or locked down in any way. Even if we say no to your suggestion, you or someone else can still implement it as a custom package.
+Keep in mind that BEEmod's content is not hardcoded or locked down in any way. Even if we say no to your suggestion, you or someone else can still implement it as a custom package.
 
 ### Other requirements
 A User must be at least 13 years of age as per the [GitHub account requirement](https://help.github.com/articles/github-terms-of-service/#b-account-terms).
