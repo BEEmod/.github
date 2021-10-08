@@ -1,13 +1,19 @@
+# BEEmod Contributing Guidelines
 Welcome to the BEE2.4 issue tracker! If you found a bug in BEE2.4 or want to suggest a new feature, you've come to the right place. That being said, however, don't just go open your issue immediately. To keep the issue tracker organized, we have some guidelines you should follow when opening issues.
+
+### This is not a forum.
+The issue tracker is for keeping track of bugs and feature requests; it is not a discussion forum. Please don't open an issue to ask a question, tell us about something, or even just to chat with people. **Do post off topic comments or questions on issues**. These things should instead be done on [Discord](https://discord.gg/EvC8Fku). If you have a question, you should also check the [FAQ](https://github.com/BEEmod/BEE2.4/blob/master/FAQ.md) first.
+
+Non-serious discussion is not allowed. If your post is not necessary for the discussion of the issue, it will be hidden. Repeat offenders will be punished.
 
 ### Post on the correct repository.
 There are two main BEEmod repositories. [BEE2-items](https://github.com/BEEmod/BEE2-items/issues) should be used for issues related to items, styles, and the other content from the packages. [BEE2.4](https://github.com/BEEmod/BEE2.4/issues) is for issues related to the application itself. If you accidentally open an issue on the wrong repository, we can transfer it over. However, it's better to open it on the correct repository to begin with.
 
-### Check for an existing issue.
-We don't need multiple issues open about the same bug or feature. Before posting anything, please make sure the issue is not on the [Known Issues](https://github.com/BEEmod/BEE2-items/wiki/Known-Issues) wiki page; even if it isn't, perform a search to make sure it hasn't already been reported. If you are using an old version of the mod, make sure to search through closed issues as well, as the bug may have already been fixed. Duplicate issues are unnecessary and will immediately be closed, no matter how severe an issue it may be. Do not intentionally open a duplicate issue to remind us about a bug/feature. Comments exist for a reason.
+### Check for an existing/duplicate issue.
+We don't need multiple issues open about the same bug or feature. Before posting anything, please make sure the issue is not on the [Known Issues](https://github.com/BEEmod/BEE2-items/wiki/Known-Issues) wiki page; even if it isn't, perform a search to make sure it hasn't already been reported. **Try searching with simple keywords such as names or words in an error log**. Duplicate issues are unnecessary and will immediately be closed, no matter how severe an issue it may be. Do not intentionally open a duplicate issue to remind us about a bug/feature. Comments exist for a reason.
 
 ### Test bugs in the latest version of BEE2.
-Bugs should always be tested in the latest version of BEE2 or an up-to-date development build to ensure that they still apply. Reporting bugs using an old version of the mod causes confusion as every bug listed may not actually be a current issue.
+**Do not open an issue if you are not running the latest version**. Bugs should always be tested in the latest version of BEE2 or an up-to-date development build to ensure that they still apply. Reporting bugs using an old version of the mod causes confusion as every bug listed may not actually be a current issue.
 
 You are free to use any version of BEE2 for any reason, but we will not provide support if you choose to use an old version.
 
@@ -16,8 +22,7 @@ When reporting a bug, provide a screenshot or video of it. If you're getting an 
 
 This applies to feature requests as well; describe in detail what the feature is, how it should function, what properties an item should have, etc. The more information you provide, the faster we'll be able to fix/implement something. We will close issues if we are unable to fix them because we don't have enough information.
 
-### This is not a forum.
-The issue tracker is for keeping track of bugs and feature requests; it is not a discussion forum. Please don't open an issue to ask a question, tell us about something, or even just to chat with people. These things should instead be done on [Discord](https://discord.gg/EvC8Fku). If you have a question, you should also check the [FAQ](https://github.com/BEEmod/BEE2.4/blob/master/FAQ.md) first.
+If you post an issue you are expected to reply to organization members. Issues with little to no information are useless to us and will be closed after a few hours.
 
 ### Don't combine issues.
 While it might seem efficient to put all of your bugs/suggestions in one post, this has several drawbacks. Each item can't be individually labelled, or closed once it is fixed/implemented. If you have multiple unrelated bug reports or feature requests, please create separate issues instead of combining them. The issues can then be automatically closed when an update that fixes them is released. There are a few exceptions to this rule - for example, if you're reporting multiple bugs with one specific item, it's usually okay, though separate issues are probably still preferred.
