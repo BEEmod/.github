@@ -2,12 +2,7 @@
 Welcome to the BEE2.4 issue tracker! If you found a bug in BEE2.4 or want to suggest a new feature, you've come to the right place. That being said, however, don't just go open your issue immediately. To keep the issue tracker organized, we have some guidelines you should follow when opening issues.
 
 ### Be polite and listen to staff.
-Remember to respect, be kind and polite towards contributors and other users. Being rude or using excessive swearing/offensive/pejorative language will make it less likely that you get help, might get your issue locked, and in more extreme cases, your account banned. Contributors are here to help however and whenever they can. Demanding solutions or tagging them will not get the job done any quicker, and will only cause inconveniences.
-
-If you issue is closed or comment is hidden, this is a decision made by the development team. Don't post comments about it, if you have questions about a decision then head over to a place of discussion.
-
-### Do not close your issue
-If an issue is marked as done, that means it will be closed automatically in the next release. Issues should remain open until then so that people know that they are still active problems with the current release of the app.
+Remember to respect, be kind and polite towards contributors and other users. Being rude or using excessive swearing/offensive/pejorative language will make it less likely that you get help, might get your issue locked, and in more extreme cases, your account banned. Contributors are here to help however and whenever they can. Demanding solutions or tagging them will not get the job done any quicker, and will only cause inconveniences.\
 
 ### This is not a forum.
 The issue tracker is for keeping track of bugs and feature requests; it is not a discussion forum. Please don't open an issue to ask a question, tell us about something, or even just to chat with people. **Do post off topic comments or questions on issues**. These things should instead be done on our [Discussion Page](https://github.com/BEEmod/BEE2-items/discussions) or on our [Discord Server](https://discord.gg/EvC8Fku). If you have a question, you should also check the [FAQ](https://github.com/BEEmod/BEE2.4/blob/master/FAQ.md) first.
@@ -22,6 +17,12 @@ There are two main BEEmod repositories. [BEE2-items](https://github.com/BEEmod/B
 
 ### Check for an existing/duplicate issue.
 We don't need multiple issues open about the same bug or feature. Before posting anything, please make sure the issue is not on the [Known Issues](https://github.com/BEEmod/BEE2-items/wiki/Known-Issues) wiki page; even if it isn't, perform a search to make sure it hasn't already been reported. **Try searching with simple keywords such as names or words in an error log**. Duplicate issues are unnecessary and will immediately be closed, no matter how severe an issue it may be. Do not intentionally open a duplicate issue to remind us about a bug/feature. Comments exist for a reason.
+
+### Do not duplicate/reopen your issues.
+If you've already posted an issue or your issue was closed, do not make another issue with the same subject or reopen it. If you issue is closed, this is a decision made by the development team. Don't post comments about it, if you have questions about a decision then head over to a place of discussion.
+
+### Do not close an issue marked as done.
+If an issue is marked as done, that means it will be closed automatically in the next release. Issues should remain open until then so that people know that they are still active problems with the current release of the app.
 
 ### Test bugs in the latest version of BEE2.
 **Do not open an issue if you are not running the latest version**. Bugs should always be tested in the latest version of BEE2 or an up-to-date development build to ensure that they still apply. Reporting bugs using an old version of the mod causes confusion as every bug listed may not actually be a current issue.
