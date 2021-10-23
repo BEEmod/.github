@@ -1,10 +1,21 @@
 # BEEmod Contributing Guidelines
 Welcome to the BEE2.4 issue tracker! If you found a bug in BEE2.4 or want to suggest a new feature, you've come to the right place. That being said, however, don't just go open your issue immediately. To keep the issue tracker organized, we have some guidelines you should follow when opening issues.
 
+### Be polite and listen to staff.
+Remember to respect, be kind and polite towards contributors and other users. Being rude or using excessive swearing/offensive/pejorative language will make it less likely that you get help, might get your issue locked, and in more extreme cases, your account banned. Contributors are here to help however and whenever they can. Demanding solutions or tagging them will not get the job done any quicker, and will only cause inconveniences.
+
+If you issue is closed or comment is hidden, this is a decision made by the development team. Don't post comments about it, if you have questions about a decision then head over to a place of discussion.
+
+### Do not close your issue
+If an issue is marked as done, that means it will be closed automatically in the next release. Issues should remain open until then so that people know that they are still active problems with the current release of the app.
+
 ### This is not a forum.
-The issue tracker is for keeping track of bugs and feature requests; it is not a discussion forum. Please don't open an issue to ask a question, tell us about something, or even just to chat with people. **Do post off topic comments or questions on issues**. These things should instead be done on [Discord](https://discord.gg/EvC8Fku). If you have a question, you should also check the [FAQ](https://github.com/BEEmod/BEE2.4/blob/master/FAQ.md) first.
+The issue tracker is for keeping track of bugs and feature requests; it is not a discussion forum. Please don't open an issue to ask a question, tell us about something, or even just to chat with people. **Do post off topic comments or questions on issues**. These things should instead be done on our [Discussion Page](https://github.com/BEEmod/BEE2-items/discussions) or on our [Discord Server](https://discord.gg/EvC8Fku). If you have a question, you should also check the [FAQ](https://github.com/BEEmod/BEE2.4/blob/master/FAQ.md) first.
 
 Non-serious discussion is not allowed. If your post is not necessary for the discussion of the issue, it will be hidden. Repeat offenders will be punished.
+
+### Know what you are talking about.
+If you are not part of the team or a contributor, we kindly ask that you do not try to help with other people's issues. It's fine to lend a hand if you have experience and know what's going on; however, in most circumstances you should leave it to the development team. We'd like to avoid confusion.
 
 ### Post on the correct repository.
 There are two main BEEmod repositories. [BEE2-items](https://github.com/BEEmod/BEE2-items/issues) should be used for issues related to items, styles, and the other content from the packages. [BEE2.4](https://github.com/BEEmod/BEE2.4/issues) is for issues related to the application itself. If you accidentally open an issue on the wrong repository, we can transfer it over. However, it's better to open it on the correct repository to begin with.
@@ -41,7 +52,5 @@ Keep in mind that BEEmod's content is not hardcoded or locked down in any way. E
 
 ### Other requirements
 A User must be at least 13 years of age as per the [GitHub account requirement](https://help.github.com/articles/github-terms-of-service/#b-account-terms).
-
-Remember to respect, be kind and polite towards contributors and other users. Being rude or using excessive swearing/offensive/pejorative language will make it less likely that you get help, might get your issue locked, and in more extreme cases, your account banned. Contributors are here to help however and whenever they can. Demanding solutions or tagging them will not get the job done any quicker, and will only cause inconveniences.
 
 **Repeatedly failing to follow these guidelines may result in your account being banned from the BEE2.4 GitHub repositories.** Ban evasion is not acceptable, and will get your multiple accounts reported and most likely removed. <!--YOU FOOL, I HAVE 70 ALTERNATIVE ACCOUNTS!-->
