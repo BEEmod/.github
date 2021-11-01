@@ -13,7 +13,13 @@ Non-serious discussion is not allowed. If your post is not necessary for the dis
 If you are not part of the team or a contributor, we kindly ask that you do not try to help with other people's issues. It's fine to lend a hand if you have experience and know what's going on; however, in most circumstances you should leave it to the development team. We'd like to avoid confusion.
 
 ### Post on the correct repository.
-There are two main BEEmod repositories. [BEE2-items](https://github.com/BEEmod/BEE2-items/issues) should be used for issues related to items, styles, and the other content from the packages. [BEE2.4](https://github.com/BEEmod/BEE2.4/issues) is for issues related to the application itself. If you accidentally open an issue on the wrong repository, we can transfer it over. However, it's better to open it on the correct repository to begin with.
+There are three main BEEmod repositories. 
+
+* [BEE2-items](https://github.com/BEEmod/BEE2-items/issues) is for issues related to items, styles, and the other content from the packages.
+* [BEE2-music](https://github.com/BEEmod/BEE2-music/issues) is for music related issues.
+* [BEE2.4](https://github.com/BEEmod/BEE2.4/issues) is for issues related to the application and compiler.
+
+If you accidentally open an issue on the wrong repository, we can transfer it over. However, it's better to open it on the correct repository to begin with.
 
 ### Check for an existing/duplicate issue.
 We don't need multiple issues open about the same bug or feature. Before posting anything, please make sure the issue is not on the [Known Issues](https://github.com/BEEmod/BEE2-items/wiki/Known-Issues) wiki page; even if it isn't, perform a search to make sure it hasn't already been reported. **Try searching with simple keywords such as names or words in an error log**. Duplicate issues are unnecessary and will immediately be closed, no matter how severe an issue it may be. Do not intentionally open a duplicate issue to remind us about a bug/feature. Comments exist for a reason.
