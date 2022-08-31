@@ -1,9 +1,13 @@
 [![BEE2.4 Releases](https://img.shields.io/github/downloads/BEEmod/BEE2.4/total.svg?label=App)](https://github.com/BEEmod/BEE2.4/releases)
 [![BEE2-items Releases](https://img.shields.io/github/downloads/BEEmod/BEE2-items/total.svg?label=Packages)](https://github.com/BEEmod/BEE2-items/releases)
+[![Discord Server](https://img.shields.io/discord/293435914598744064?color=%235865F2&label=Discord)](https://discord.gg/hnGFJrz)
 
 # Better Extended Editor 2 version 4 #
-
 ![BEE2 Icon](https://raw.githubusercontent.com/BEEmod/BEE2.4/master/BEE2.ico)
+
+- [Contributing Guidelines](https://github.com/BEEmod/.github/blob/master/contributing.md)
+- [Frequently Asked Questions](https://github.com/BEEmod/.github/blob/master/FAQ.md)
+
 ## Portal 2  Mod Tool
 The BEE2 allows reconfiguring Portal 2's Puzzlemaker editor to use additional items, reskin maps for
 different eras, and configure many other aspects. All vanilla items have been upgraded with additional
