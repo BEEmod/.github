@@ -9,6 +9,11 @@ The issue tracker is for keeping track of bugs and feature requests; it is not a
 
 Non-serious discussion is not allowed. If your post is not necessary for the discussion of the issue, it will be hidden. Repeat offenders will be punished.
 
+### Test bugs in the latest version of BEE2.
+**Do not open an issue if you are not running the latest version**. Bugs should always be tested in the latest version of BEE2 or an up-to-date development build to ensure that they still apply. Reporting bugs using an old version of the mod causes confusion as every bug listed may not actually be a current issue.
+
+You are free to use any version of BEE2 for any reason, but we will not provide support if you choose to use an old version.
+
 ### Know what you are talking about.
 If you are not part of the team or a contributor, we kindly ask that you do not try to help with other people's issues. It's fine to lend a hand if you have experience and know what's going on; however, in most circumstances you should leave it to the development team. We'd like to avoid confusion.
 
@@ -24,16 +29,11 @@ If you accidentally open an issue on the wrong repository, we can transfer it ov
 ### Check for an existing/duplicate issue.
 We don't need multiple issues open about the same bug or feature. Before posting anything, please make sure the issue is not on the [Known Issues](https://github.com/BEEmod/BEE2-items/wiki/Known-Issues) wiki page; even if it isn't, perform a search to make sure it hasn't already been reported. **Try searching with simple keywords such as names or words in an error log**. Duplicate issues are unnecessary and will immediately be closed, no matter how severe an issue it may be. Do not intentionally open a duplicate issue to remind us about a bug/feature. Comments exist for a reason.
 
-### Do not duplicate/reopen your issues.
-If you've already posted an issue or your issue was closed, do not make another issue with the same subject or reopen it. If you issue is closed, this is a decision made by the development team. Don't post comments about it, if you have questions about a decision then head over to a place of discussion.
+### Do not duplicate your issues on purpose.
+If you've already posted an issue or your issue was closed, do not make another issue with the same subject or reopen it. If your issue is closed, this is a decision made by the development team. You may reply to the issue if you believe there is good reason for it to be reopened, but if it is clear that the decision is final then please do not spam the issue with further replies.
 
 ### Do not close an issue marked as done.
 If an issue is marked as done, that means it will be closed automatically in the next release. Issues should remain open until then so that people know that they are still active problems with the current release of the app.
-
-### Test bugs in the latest version of BEE2.
-**Do not open an issue if you are not running the latest version**. Bugs should always be tested in the latest version of BEE2 or an up-to-date development build to ensure that they still apply. Reporting bugs using an old version of the mod causes confusion as every bug listed may not actually be a current issue.
-
-You are free to use any version of BEE2 for any reason, but we will not provide support if you choose to use an old version.
 
 ### Provide as much information as possible.
 When reporting a bug, provide a screenshot or video of it. If you're getting an error, include the crash or compile log. If you have experience with Python (for the app) or Hammer (for the items), you can be even more helpful by trying to debug the issue yourself. If someone provides a solution to the issue or asks for more detail, please respond.
