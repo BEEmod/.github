@@ -73,3 +73,9 @@ This is also possible; however, the refraction shader used by light strips isn't
 The Source engine has very strict limits on toggleable lights. Only two dynamic lights can affect a single surface (although this may have been raised to three in Portal 2), and only 32 possible combinations of light states can exist across the entire map. This makes toggleable lights infeasible for the Puzzlemaker, where users expect items to "just work" and would not be aware of these restrictions.
 
 Additionally, darkness is not a test element and would likely prove to be more of an annoyance than actually contributing to the puzzle design in any way, and aesthetic uses are mostly out of the scope of BEEmod.
+
+### Cores / relaxation vault entrance / other story elements
+
+These are beyond the scope of BEEmod. Story elements tend to be very specially made for the point in the story where they're used, you need the flexibility of Hammer and numerous custom assets to tell a coherent original story. We're not just going to make random Portal 2 setpieces placeable in maps out of context.
+
+While cores arguably have puzzle use via being plugged into sockets, this purpose can already be filled by regular cubes.
