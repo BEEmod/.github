@@ -7,6 +7,8 @@
 
 - [Contributing Guidelines](https://github.com/BEEmod/.github/blob/master/contributing.md)
 - [Frequently Asked Questions](https://github.com/BEEmod/.github/blob/master/FAQ.md)
+- [Discussion Forums](https://github.com/BEEmod/BEE2-items/discussions)
+- [Discord Server](https://discord.gg/hnGFJrz)
 
 ## Portal 2  Mod Tool
 The BEE2 allows reconfiguring Portal 2's Puzzlemaker editor to use additional items, reskin maps for
@@ -14,6 +16,8 @@ different eras, and configure many other aspects. All vanilla items have been up
 bugfixes and improvements.
 
 ## Download and Use
+
+### Windows
 - Download the latest releases of the BEE2.4 and items from the following pages:
   - [Application](https://github.com/BEEmod/BEE2.4/releases)
   - [Item Packages](https://github.com/BEEmod/BEE2-items/releases)
@@ -22,8 +26,18 @@ bugfixes and improvements.
 - Place extracted package folder in the root BEE2 folder. _e.g. `C:\BEE2.4\packages`_
 - To run, locate the BEE2 application in the app folder and execute it. _e.g. `C:\BEE2.4\BEE2.exe`_
 
-## Mac OS
-As of version 4.37 we have stopped supporting BEE2.4 on Mac. See [this wiki article](https://github.com/BEEmod/BEE2-items/wiki/BEE2.4-on-Mac) for more details and how you can still use the mod.
+### Linux
+Linux support exists, but is experimental. We do not currently provide precompiled releases. See the [BEE2.4 on Linux](https://github.com/BEEmod/BEE2-items/wiki/BEE2.4-on-Linux) wiki article for more information.
+
+### macOS
+BEE2.4 no longer supports macOS, and Portal 2 has not been able to run natively on the platform for many years at this point. See the [BEE2.4 on macOS](https://github.com/BEEmod/BEE2-items/wiki/BEE2.4-on-macOS) wiki article for more information.
+
+## Older Versions
+We also retain repositories for several older versions of BEEmod. These mostly exist for archival purposes and are generally not updated anymore.
+- [BEEMOD](https://github.com/BEEmod/BEEMOD): The original BEEMOD 1.5 from 2012. Modifies the editor directly and doesn't have an app. Very outdated and missing many features, but generally stable. Might be useful if you're on a system that can't run BEE2.4.
+- [BEE2.2](https://github.com/BEEmod/BEE2.2): The original version of the BEE2 app. Written in C# and only runs on Windows. Very buggy.
+- [BEE2.2 Resources](https://github.com/BEEmod/BEE2.2-Resources): Resources used by BEE2.2, including precompiled builds. Very buggy.
+- [tspenAddons](https://github.com/BEEmod/tspenAddons): TeamSpen210's add-on pack for BEE2.2, which adds several additional items/styles and improves the base ones. Has a [website](https://beemod.github.io/tspenAddons/) that goes over its features in more detail.
 
 <!--
 Wacky
